@@ -1,0 +1,4 @@
+user-agent: *
+Disallow:
+
+Sitemap: https://offshoreservices.github.io/sitemap.xml
